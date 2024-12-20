@@ -1,0 +1,16 @@
+nav a{
+  text-decoration: none !important;
+  margin-right: 25px !important;
+  font-size: xx-large;
+  color:white;
+}
+input{
+  width:60%;
+  display: flex;
+  justify-content:flex-start;
+}
+label{
+  display: flex;
+  justify-content:flex-end;
+  padding-right:30px;
+}
